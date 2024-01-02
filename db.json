@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "fullName": "Jan Kowalski",
+      "userName": "Jano",
+      "roles": "Valet Parker",
+      "title": "Valet Parker",
+      "status": 0,
+      "lastLogin": "Nov 14, 2023 04:34 PM"
+    }
+  ]
+}
