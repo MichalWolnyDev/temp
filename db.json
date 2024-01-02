@@ -2,16 +2,44 @@
   "test": {
     "result": {
       "data": [
-        {
-          "id": 0,
-          "fullName": "Jan Kowalski",
-          "userName": "Jano",
-          "roles": "Valet Parker",
-          "title": "Valet Parker",
-          "status": 0,
-          "lastLogin": "Nov 14, 2023 04:34 PM"
-        }
-      ]
+    {
+        "id": 0,
+        "fullName": "Jan Kowalski",
+        "userName": "Jano",
+        "roles": "Valet Parker",
+        "title": "Valet Parker",
+        "status": 0,
+        "lastLogin": "Nov 14, 2023 04:34 PM"
+    },
+    {
+        "id": 1,
+        "fullName": "Emily Johnson",
+        "userName": "EmiJ",
+        "roles": "Manager",
+        "title": "Manager",
+        "status": 1,
+        "lastLogin": "Dec 5, 2023 10:22 AM"
+    },
+    {
+        "id": 2,
+        "fullName": "Michael Smith",
+        "userName": "MikeS",
+        "roles": "Security Guard",
+        "title": "Security Guard",
+        "status": 0,
+        "lastLogin": "Oct 21, 2023 08:15 PM"
+    },
+    {
+        "id": 3,
+        "fullName": "Sophie Brown",
+        "userName": "SophB",
+        "roles": "Receptionist",
+        "title": "Receptionist",
+        "status": 1,
+        "lastLogin": "Nov 30, 2023 11:45 AM"
+    }
+]
+
     }
   }
 }
