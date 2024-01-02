@@ -36,8 +36,241 @@
         "title": "Receptionist",
         "status": 1,
         "lastLogin": "Nov 30, 2023 11:45 AM"
+    },
+    {
+        "id": 4,
+        "fullName": "David Williams",
+        "userName": "DaveW",
+        "roles": "Chef",
+        "title": "Chef",
+        "status": 1,
+        "lastLogin": "Oct 8, 2023 05:20 PM"
+    },
+    {
+        "id": 5,
+        "fullName": "Maria Garcia",
+        "userName": "MariG",
+        "roles": "Server",
+        "title": "Server",
+        "status": 0,
+        "lastLogin": "Dec 20, 2023 09:10 AM"
+    },
+    {
+        "id": 6,
+        "fullName": "Chris Martin",
+        "userName": "ChrisM",
+        "roles": "Bartender",
+        "title": "Bartender",
+        "status": 0,
+        "lastLogin": "Nov 3, 2023 02:55 PM"
+    },
+    {
+        "id": 7,
+        "fullName": "Emma Anderson",
+        "userName": "EmmAndy",
+        "roles": "Waitstaff",
+        "title": "Waitstaff",
+        "status": 1,
+        "lastLogin": "Oct 16, 2023 07:30 AM"
+    },
+    {
+        "id": 8,
+        "fullName": "Daniel Clark",
+        "userName": "DanC",
+        "roles": "Housekeeping",
+        "title": "Housekeeping",
+        "status": 0,
+        "lastLogin": "Dec 8, 2023 03:45 PM"
+    },
+    {
+        "id": 9,
+        "fullName": "Olivia Walker",
+        "userName": "OliW",
+        "roles": "Concierge",
+        "title": "Concierge",
+        "status": 1,
+        "lastLogin": "Nov 25, 2023 11:20 AM"
+    },
+    {
+        "id": 10,
+        "fullName": "Lucas Martinez",
+        "userName": "LucMar",
+        "roles": "Security Guard",
+        "title": "Security Guard",
+        "status": 0,
+        "lastLogin": "Dec 30, 2023 06:55 PM"
+    },
+    {
+        "id": 11,
+        "fullName": "Ava Rodriguez",
+        "userName": "AvaR",
+        "roles": "Manager",
+        "title": "Manager",
+        "status": 1,
+        "lastLogin": "Nov 7, 2023 08:40 AM"
+    },
+    {
+        "id": 12,
+        "fullName": "Noah Perez",
+        "userName": "NoahP",
+        "roles": "Valet Parker",
+        "title": "Valet Parker",
+        "status": 0,
+        "lastLogin": "Oct 18, 2023 02:15 PM"
+    },
+    {
+        "id": 13,
+        "fullName": "Isabella Torres",
+        "userName": "IsaT",
+        "roles": "Receptionist",
+        "title": "Receptionist",
+        "status": 1,
+        "lastLogin": "Dec 14, 2023 09:30 AM"
+    },
+    {
+        "id": 14,
+        "fullName": "Ethan Gonzales",
+        "userName": "EthaG",
+        "roles": "Chef",
+        "title": "Chef",
+        "status": 1,
+        "lastLogin": "Nov 29, 2023 04:50 PM"
+    },
+    {
+        "id": 15,
+        "fullName": "Mia Rivera",
+        "userName": "MiaR",
+        "roles": "Server",
+        "title": "Server",
+        "status": 0,
+        "lastLogin": "Oct 10, 2023 11:15 AM"
+    },
+    {
+        "id": 16,
+        "fullName": "Alexander Lee",
+        "userName": "AlexL",
+        "roles": "Bartender",
+        "title": "Bartender",
+        "status": 0,
+        "lastLogin": "Dec 3, 2023 06:25 PM"
+    },
+    {
+        "id": 17,
+        "fullName": "Charlotte Hall",
+        "userName": "CharH",
+        "roles": "Waitstaff",
+        "title": "Waitstaff",
+        "status": 1,
+        "lastLogin": "Nov 22, 2023 10:35 AM"
+    },
+    {
+        "id": 18,
+        "fullName": "William Young",
+        "userName": "WillY",
+        "roles": "Housekeeping",
+        "title": "Housekeeping",
+        "status": 0,
+        "lastLogin": "Oct 4, 2023 01:40 PM"
+    },
+    {
+        "id": 19,
+        "fullName": "Abigail White",
+        "userName": "AbiW",
+        "roles": "Concierge",
+        "title": "Concierge",
+        "status": 1,
+        "lastLogin": "Dec 18, 2023 08:50 AM"
+    },
+    {
+        "id": 20,
+        "fullName": "James Lopez",
+        "userName": "JamL",
+        "roles": "Security Guard",
+        "title": "Security Guard",
+        "status": 0,
+        "lastLogin": "Nov 13, 2023 03:55 PM"
+    },
+    {
+        "id": 21,
+        "fullName": "Ella King",
+        "userName": "ElK",
+        "roles": "Manager",
+        "title": "Manager",
+        "status": 1,
+        "lastLogin": "Oct 26, 2023 11:10 AM"
+    },
+    {
+        "id": 22,
+        "fullName": "Benjamin Scott",
+        "userName": "BenS",
+        "roles": "Valet Parker",
+        "title": "Valet Parker",
+        "status": 0,
+        "lastLogin": "Dec 11, 2023 04:30 PM"
+    },
+    {
+        "id": 23,
+        "fullName": "Chloe Green",
+        "userName": "ChlG",
+        "roles": "Receptionist",
+        "title": "Receptionist",
+        "status": 1,
+        "lastLogin": "Nov 17, 2023 09:40 AM"
+    },
+    {
+        "id": 24,
+        "fullName": "Henry Adams",
+        "userName": "HenA",
+        "roles": "Chef",
+        "title": "Chef",
+        "status": 1,
+        "lastLogin": "Oct 2, 2023 06:45 PM"
+    },
+    {
+        "id": 25,
+        "fullName": "Grace Baker",
+        "userName": "GraB",
+        "roles": "Server",
+        "title": "Server",
+        "status": 0,
+        "lastLogin": "Dec 27, 2023 10:20 AM"
+    },
+    {
+        "id": 26,
+        "fullName": "Jackson Cooper",
+        "userName": "JackC",
+        "roles": "Bartender",
+        "title": "Bartender",
+        "status": 0,
+        "lastLogin": "Nov 9, 2023 03:35 PM"
+    },
+    {
+        "id": 27,
+        "fullName": "Avery Morris",
+        "userName": "AveM",
+        "roles": "Waitstaff",
+        "title": "Waitstaff",
+        "status": 1,
+        "lastLogin": "Oct 14, 2023 07:50 AM"
+    },
+    {
+        "id": 28,
+        "fullName": "Scarlett Turner",
+        "userName": "ScarT",
+        "roles": "Housekeeping",
+        "title": "Housekeeping",
+        "status": 0,
+        "lastLogin": "Dec 5, 2023 01:15 PM"
+    },
+    {
+        "id": 29,
+        "fullName": "Logan Ward",
+        "userName": "LogW",
+        "roles": "Concierge",
+        "title": "Concierge",
+        "status": 1,
+        "lastLogin": "Nov 28, 2023 11:30 AM"
     }
 ]
-
     }
 }
